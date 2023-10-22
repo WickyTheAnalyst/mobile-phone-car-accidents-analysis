@@ -1,4 +1,4 @@
-# Mobile Phones and U.S. Car Accidents Inferential Analysis
+# Mobile Phones and U.S. Car Accidents - Inferential Analysis
 
 **Date:** October 12, 2023
 
